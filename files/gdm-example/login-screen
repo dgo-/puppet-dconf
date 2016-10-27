@@ -1,0 +1,8 @@
+[org/gnome/login-screen]
+# Do not show the user list
+disable-user-list=true
+# enable banner
+banner-message-enable=true
+banner-message-text='welcome'
+# set logo
+logo='/usr/local/share/gdm/logo.png'
